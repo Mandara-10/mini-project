@@ -1,0 +1,10 @@
+<div
+  className="card shadow-lg p-4 rounded-4"
+  style={{
+    width: "24rem",
+    backgroundImage: "url('https://img.freepik.com/premium-photo/spring-grain-concept-agriculture-healthy-eating-organic-food-generative-ai_58409-32489.jpg?w=2000')",
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+    color: "white", // ensures text is visible on dark background
+  }}
+>
